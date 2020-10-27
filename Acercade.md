@@ -1,5 +1,5 @@
 ---
-title: About me
+title: Acerca de
 ---
 
 Mi nombre es *Lizbeth Pérez*
@@ -20,5 +20,3 @@ Estudie la carrera de _Sistemas Comerciales_ en la **Universidad de Quintana Roo
 Me puede contactar en [mi correo personal][1].  
 
    [1]: lizbethperezr@outlook.com
-
-
