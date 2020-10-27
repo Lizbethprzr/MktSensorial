@@ -22,7 +22,7 @@ A Jekyll theme. [Demo :point_left:](http://scribble.muan.co/posts/scribble-the-j
 
 1. Edit `_config.yml`, adn then rerun `jekyll serve -w`
 
-2. Change `SobreMi.md` for blog intro
+2. Change `About.md` for blog intro
 
 3. For domain settings see [the guide from GitHub](https://help.github.com/articles/setting-up-a-custom-domain-with-pages)
 
