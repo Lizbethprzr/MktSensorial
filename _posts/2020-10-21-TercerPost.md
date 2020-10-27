@@ -1,6 +1,6 @@
 ---
 title: Los sentidos 
-date: 2020-10-20 
+date: 2020-10-17 
 ---
 
 Es decir, que este tipo de marketing hace uso del olfato, la vista, el tacto, el gusto y el oído para crear una experiencia en los consumidores. 
