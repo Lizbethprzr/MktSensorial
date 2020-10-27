@@ -16,9 +16,7 @@ Estudie la carrera de _Sistemas Comerciales_ en la **Universidad de Quintana Roo
 > * _Marketing y negocios_
 > * _Creación de contenido_ 
 
-Me puede contactar en [mi correo personal][1].  
-
-   [1]: lizbethperezr@outlook.com
+Me puede contactar en [Mi correo personal](lizbethperezr@outlook.com "Envíar correo")
 
    :)
 
