@@ -1,6 +1,6 @@
 ---
 title: Definición ségun Garcillán 
-date: 2020-10-18 
+date: 2020-10-20 
 ---
 
 > El marketing sensorial tiene como objetivo identificar la reacción que provoca un producto dentro de las personas, utilizando uno o más de los cinco sentidos (Garcillán_2015).
@@ -15,4 +15,5 @@ Es decir, que este tipo de marketing hace uso del olfato, la vista, el tacto, el
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAELAOVs94c&#x2F;view?utm_content=DAELAOVs94c&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">5 Sentidos</a> de Lizbeth Pérez
+
 
