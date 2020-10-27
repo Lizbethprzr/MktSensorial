@@ -13,7 +13,7 @@ Estudie la carrera de _Sistemas Comerciales_ en la **Universidad de Quintana Roo
 > * _Estrategia de ventas_ 
 > * _Marketing de relaciones_ 
 
-> ***Me gusta todo lo relacionado con:***
+> ***Me gusta todo #1 lo relacionado con:***
 > * _Marketing y negocios_
 > * _Creación de contenido_ 
 
