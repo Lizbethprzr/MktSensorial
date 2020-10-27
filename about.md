@@ -1,9 +1,27 @@
 ---
-title: About me
+title: Sobre mi
 ---
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend.
+Hola
+====
 
-Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi.
+Mi nombre es *Lizbeth*
+----
 
-Find me on [GitHub](https://github.com/muan) or [Twitter](https://twitter.com/muanchiou).
+Estudie la carrera de _Sistemas Comerciales_ en la **Universidad de Quintana Roo**, actualmente estoy realizando mi _tesis_ para el proceso de ***titulación***. 
+
+ ___Mis materias favoritas de la carrera fueron:___ 
+> * _Mercadotecnia_
+> * _Estrategia de producto_ 
+> * _Estrategia de ventas_ 
+> * _Marketing de relaciones_ 
+
+> ***Me gusta todo lo relacionado con:***
+> * _Marketing y negocios_
+> * _Creación de contenido_ 
+
+Me puede contactar en [mi correo personal][1].  
+
+   [1]: lizbethperezr@outlook.com
+
+
