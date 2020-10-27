@@ -14,9 +14,6 @@ links:
   - name:         Acerca de
     url:          /Acercade
     external:     false
-  - name:         Acerca de
-    url:          /about
-    external:     false
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
