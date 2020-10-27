@@ -1,11 +1,9 @@
 ---
-title: Sobre mi
+title: ¡Hola!
 ---
 
-Hola
-====
 
-Mi nombre es *Lizbeth*
+Mi nombre es *Lizbeth Pérez*
 ----
 
 Estudie la carrera de _Sistemas Comerciales_ en la **Universidad de Quintana Roo**, actualmente estoy realizando mi _tesis_ para el proceso de ***titulación***. 
